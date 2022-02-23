@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @notbogdi19
+- 👀 I’m interested in games and programing
+- 🌱 I’m currently learning java and c# and c++
+- 💞️ I’m looking to collaborate on creating a game
+- 📫 How to reach me notbogdi19@gmail.com
